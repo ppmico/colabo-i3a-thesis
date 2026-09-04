@@ -2,7 +2,7 @@
 
 This repository contains all the materials necessary to understand, reproduce, and build upon the research project, result of a collaboration with the I3A research group, which was developed as the thesis presented for my degree. 
 
-This repository contains the final version of the research paper in PDF format, along with every figure included in the paper. The directory **code** contains all the code, notebooks, and data necessary to reproduce the results presented in the paper.
+This repository contains [**the final version of the research paper in PDF format**](https://github.com/ppmico/colabo-i3a-thesis/blob/main/DELAASCENSION_DO%C3%91ATE_JOSEMIGUEL_842574_TFG.pdf), along with every figure included in the paper. The directory **code** contains all the code, notebooks, and data necessary to reproduce the results presented in the paper.
 
 ## Reproducing the Results
 
